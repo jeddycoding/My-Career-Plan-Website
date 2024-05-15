@@ -1,0 +1,16 @@
+img{
+    height: 325px;
+    border: 2in;
+    color: black;
+}
+body{
+    background-color: darkslateblue;
+}
+p {
+    background-color: rgb(215, 211, 242);
+}
+h1 {
+    font-family: sans-serif;
+    font-display:initial ;
+    color: beige;
+}
